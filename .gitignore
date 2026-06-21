@@ -216,7 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-vatshriya08
-cN9DdewmP8mSj18X
-mongodb+srv://vatsashriya08:cN9DdewmP8mSj18X@cluster0.o1kpvkd.mongodb.net/?appName=Cluster0
+.env
